@@ -1,1 +1,1 @@
-# flask_api
+Flask + Flask restplus with JWT authorization skeleton
